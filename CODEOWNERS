@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @av-ion
+/src/backend/database.py      @av-ion
+/src/backend/routers/auth.py  @av-ion
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @av-ion
